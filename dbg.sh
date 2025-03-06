@@ -1,0 +1,1 @@
+su -c sh -c "logcat | grep -i -E 'ELFLoader:|LHIDE'"
