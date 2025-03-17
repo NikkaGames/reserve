@@ -1,1 +1,1 @@
-sh -c "logcat | grep -i -E 'ELFLoader:|LHIDE'"
+sh -c "logcat | grep -i -E 'ELFLoader:|LHIDE'" > log.txt
