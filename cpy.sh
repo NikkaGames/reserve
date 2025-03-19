@@ -1,1 +1,0 @@
-/data/user/0/com.termux/files/home/cpy.sh
